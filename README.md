@@ -131,7 +131,8 @@ The project was designed with a focus on:
    - Overview of posts is shown in a structured card format.  
    - User clicks on a post to view more details.
   
-<img width="1459" alt="Screenshot 2025-03-18 at 2 09 15 PM" src="https://github.com/user-attachments/assets/c881d4c3-831c-490a-83af-e483c06b8a93" />
+<img width="1466" alt="Screenshot 2025-03-18 at 2 52 17 PM" src="https://github.com/user-attachments/assets/7e3491a8-c3f8-4f69-a58d-8e6ff54f89ae" />
+
 
 
 2. **Dashboard View:**  
@@ -139,25 +140,28 @@ The project was designed with a focus on:
    - Shows AI-based reliability and summary.  
    - User can interact with the chatbot.
   
-<img width="1162" alt="Screenshot 2025-03-18 at 2 20 43 PM" src="https://github.com/user-attachments/assets/67e2a891-83b4-44b0-a935-f317eaf58ff8" />
+<img width="1162" alt="Screenshot 2025-03-18 at 2 20 43 PM" src="https://github.com/user-attachments/assets/bed5c98b-6b61-45fc-b8a2-a480df4f863c" />
 
 
-<img width="1146" alt="Screenshot 2025-03-18 at 2 16 15 PM" src="https://github.com/user-attachments/assets/63d5a1f8-ed84-4afa-b2f0-047d49accd71" />
+
+<img width="1146" alt="Screenshot 2025-03-18 at 2 16 15 PM" src="https://github.com/user-attachments/assets/900ef934-428e-4e37-a206-de2a36e1f1c4" />
 
 
-<img width="1133" alt="Screenshot 2025-03-18 at 2 16 23 PM" src="https://github.com/user-attachments/assets/6f90137c-c050-4352-80aa-6147e8c97c43" />
+
+<img width="1133" alt="Screenshot 2025-03-18 at 2 16 23 PM" src="https://github.com/user-attachments/assets/c705a3b8-e0d9-486a-a05c-b914937b52e0" />
 
 
-<img width="1146" alt="Screenshot 2025-03-18 at 2 16 34 PM" src="https://github.com/user-attachments/assets/30ec2d85-0b56-42c2-b10d-38291953ad79" />
+<img width="1146" alt="Screenshot 2025-03-18 at 2 16 34 PM" src="https://github.com/user-attachments/assets/5a8132aa-f161-48dd-b89a-13b2d4b90995" />
 
 
-<img width="1163" alt="Screenshot 2025-03-18 at 2 16 43 PM" src="https://github.com/user-attachments/assets/6721938a-dac8-4be3-a95f-976be666c608" />
+<img width="1163" alt="Screenshot 2025-03-18 at 2 16 43 PM" src="https://github.com/user-attachments/assets/55d20d78-152b-4678-88fc-ccd48bdacebe" />
 
 
-<img width="1162" alt="Screenshot 2025-03-18 at 2 16 50 PM" src="https://github.com/user-attachments/assets/6706fc95-dbd9-4e27-9f0f-f0f1b0dc7e85" />
+<img width="1162" alt="Screenshot 2025-03-18 at 2 16 50 PM" src="https://github.com/user-attachments/assets/27cb147e-a42f-406b-a21e-7e10651f0c92" />
 
 
-<img width="1165" alt="Screenshot 2025-03-18 at 2 17 16 PM" src="https://github.com/user-attachments/assets/5944d4bc-55fc-45d9-adc0-e7b3e18e897a" />
+<img width="1165" alt="Screenshot 2025-03-18 at 2 17 16 PM" src="https://github.com/user-attachments/assets/02d22548-c626-4f2f-aa29-c9e79f94d4bd" />
+
 
 
 
