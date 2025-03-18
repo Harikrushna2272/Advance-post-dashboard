@@ -208,7 +208,7 @@ The project was designed with a focus on:
 https://drive.google.com/file/d/14VTkfcSGk8uvTZVL6poxMcd2Fhe0v8tz/view?usp=sharing
 
 ## 📽️ **Project Link :
-https://research-engineering-intern-assignment-yqia9zwn97ga8wwwwkxwrc.streamlit.app/
+https://research-engineering-intern-assignment-yqia9zwn97ga8wwwwkxwrc.streamlit.app/dashboard?id=1ir8tnp
 
 ## 🚀 **How to Run the Project**  
 1. **Clone the Repository:**  
