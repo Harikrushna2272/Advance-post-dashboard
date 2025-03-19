@@ -213,4 +213,4 @@ https://research-engineering-intern-assignment-yqia9zwn97ga8wwwwkxwrc.streamlit.
 ## 🚀 **How to Run the Project**  
 1. **Clone the Repository:**  
 ```bash
-git clone https://github.com/your-repo-name.git
+git clone https://github.com/Harikrushna2272/research-engineering-intern-assignment.git
