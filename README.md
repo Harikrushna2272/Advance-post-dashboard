@@ -204,9 +204,6 @@ The project was designed with a focus on:
 
 ---
 
-## 🎥 **Video Link : 
-https://drive.google.com/file/d/14VTkfcSGk8uvTZVL6poxMcd2Fhe0v8tz/view?usp=sharing
-
 ## 📽️ **Project Link :
 https://research-engineering-intern-assignment-yqia9zwn97ga8wwwwkxwrc.streamlit.app/
 
